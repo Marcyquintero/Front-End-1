@@ -1,0 +1,23 @@
+* {
+  margin-right: 0;
+  margin-left: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family:'Courier New', Courier, monospace;
+  font-style:normal;
+  text-align: center;
+  color:#8FBC8F;
+  align-items: center;
+}
+body {
+  display: flex;
+  justify-content: space-between;
+  background-image: url("./html/image/flores.jpg");
+  background-size: cover;
+}
+.foto {
+position: absolute;
+right: 50px;
+}
